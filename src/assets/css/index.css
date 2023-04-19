@@ -1,0 +1,17 @@
+a {
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+table {
+	border: 1px solid black;
+}
+
+th {
+	border-bottom: 0;
+}
+
+td {
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+}
