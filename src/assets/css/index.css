@@ -15,3 +15,11 @@ td {
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
 }
+
+table.table, table.table th, table.table td {
+	border: 1px solid black;
+}
+
+table.table {
+	border-collapse: collapse;
+}
